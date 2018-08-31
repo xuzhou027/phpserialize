@@ -1,4 +1,4 @@
-package phps
+package phpserialize
 
 import (
 	"fmt"

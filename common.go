@@ -1,4 +1,4 @@
-package phps
+package phpserialize
 
 const TYPE_VALUE_SEPARATOR = ':'
 const VALUES_SEPARATOR = ';'
